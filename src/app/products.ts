@@ -20,9 +20,9 @@ export const products = [
   },
   {
     id: 3,
-    name: 'Phone Standard',
-    price: 299,
-    description: ''
+    name: 'College Now Elite',
+    price: 1299,
+    description: 'iPhone 13 Pro Max'
   }
 ];
 
